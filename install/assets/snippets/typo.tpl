@@ -25,7 +25,7 @@
  * @author      cgehuzi <mail.cgehuzi@yandex.ru>
  * @reportissues https://github.com/cgehuzi/typo
 
- * @documentation Необходим для подстановки корректного телефона в ссылки с атрибутом href="tel: "
+ * @documentation Необходим для типографирования контента
  * @documentation 
  * @documentation [[typo? &text=`______`]]
  * @documentation Документация: https://github.com/cgehuzi/typo
