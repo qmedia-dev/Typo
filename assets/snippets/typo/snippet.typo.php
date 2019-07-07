@@ -1,6 +1,6 @@
 <?php
 
-$text = isset($text) : $text ? '';
+$text = isset($text) ? $text : '';
 
 // подключаем типограф
 require_once("assets/snippets/typo/EMT.php");
