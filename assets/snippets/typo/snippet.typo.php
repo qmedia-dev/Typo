@@ -1,5 +1,7 @@
 <?php
 
+$text = isset($text) : $text ? '';
+
 // подключаем типограф
 require_once("assets/snippets/typo/EMT.php");
 
@@ -20,7 +22,7 @@ $options = array(
 $typograph->setup($options);
 
 // задаём текст для типографирования
-$typograph->set_text("Текст, к которому применить типограф.");
+$typograph->set_text($text);
 
 // типографируем
 $result = $typograph->apply();
