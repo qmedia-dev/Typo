@@ -2152,7 +2152,7 @@ class EMT_Tret_Space extends EMT_Tret
 {
 	public $title = "Расстановка и удаление пробелов";
 	
-	public $domain_zones = array('ru','ру','ком','орг', 'уа', 'ua', 'uk', 'co', 'fr', 
+	public $domain_zones = array('by', 'ru','ру','ком','орг', 'уа', 'ua', 'uk', 'co', 'fr', 
 	                             'com', 'net', 'edu', 'gov', 'org', 'mil', 'int', 'info', 'biz', 'info', 'name', 'pro');
 	
 	public $classes = array(
