@@ -1,4 +1,4 @@
-# typo
+# Typo
 
 _Сниппет для Evolution CMS_
 
@@ -6,7 +6,7 @@ _Сниппет для Evolution CMS_
 Ссылка на типограф: <http://mdash.ru/>
 
 ```
-[[typo? &text=`______`]]
+[[Typo? &text=`______`]]
 ```
 
 ## Параметры
