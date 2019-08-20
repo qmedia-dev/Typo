@@ -3,7 +3,7 @@
 $text = isset($text) ? $text : '';
 
 // подключаем типограф
-require_once("assets/snippets/typo/EMT.php");
+require_once("assets/snippets/Typo/EMT.php");
 
 // создаём объект
 $typograph = new EMTypograph();
