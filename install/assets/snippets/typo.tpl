@@ -11,7 +11,7 @@
 
  * @internal    @properties
  * @internal    @modx_category Qmedia
- * @internal    @installset base, simple
+ * @internal    @installset base, sample
  
  */
  
@@ -26,10 +26,14 @@
  * @reportissues https://github.com/qmedia-dev/typo
 
  * @documentation Необходим для типографирования контента
- * @documentation 
- * @documentation [[typo? &text=`______`]]
  * @documentation Документация: https://github.com/qmedia-dev/typo
 
  */
+
+ /* Usage -------------------------------
+ [[typo?
+ &text=`[*content*]`
+ ]]
+ ---------------------------------------- */
 
 return require MODX_BASE_PATH . 'assets/snippets/typo/snippet.typo.php';
