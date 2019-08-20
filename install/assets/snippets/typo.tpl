@@ -6,8 +6,8 @@
  *
  * @category    snippet
  * @version     1.0.0
- * @author      cgehuzi <mail.cgehuzi@yandex.ru>
- * @reportissues https://github.com/cgehuzi/typo
+ * @author      igor <igor@qmedia.by>
+ * @reportissues https://github.com/qmedia-dev/typo
 
  * @internal    @properties
  * @internal    @modx_category Qmedia
@@ -22,13 +22,13 @@
  *
  * @category    snippet
  * @version     1.0.0
- * @author      cgehuzi <mail.cgehuzi@yandex.ru>
- * @reportissues https://github.com/cgehuzi/typo
+ * @author      igor <igor@qmedia.by>
+ * @reportissues https://github.com/qmedia-dev/typo
 
  * @documentation Необходим для типографирования контента
  * @documentation 
  * @documentation [[typo? &text=`______`]]
- * @documentation Документация: https://github.com/cgehuzi/typo
+ * @documentation Документация: https://github.com/qmedia-dev/typo
 
  */
 
