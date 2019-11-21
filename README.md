@@ -7,7 +7,7 @@ _Сниппет для Evolution CMS_
 
 Пример вызова:
 
-```
+```html
 [[Typo?
 &text=`[*content*]`
 &breakline=`off`
