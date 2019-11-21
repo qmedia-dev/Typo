@@ -15,6 +15,7 @@ $options = array(
     'Text.auto_links' => $links == 'off' ? 'off' : 'on',
     'Text.email' => $email == 'off' ? 'off' : 'on',
     'Text.no_repeat_words' => $norepeat == 'on' ? 'on' : 'off',
+    'Text.autospace_after_dot' => $dotspace == 'on' ? 'on' : 'off',
     'OptAlign.oa_oquote' => $optical == 'on' ? 'on' : 'off',
     'OptAlign.oa_oquote_extra' => $optical == 'on' ? 'on' : 'off',
     'OptAlign.oa_obracket_coma' => $optical == 'on' ? 'on' : 'off'

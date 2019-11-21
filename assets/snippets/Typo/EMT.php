@@ -1236,7 +1236,8 @@ class EMT_Tret_Abbr extends EMT_Tret
 {
 	public $title = "Сокращения";
 	
-	public $domain_zones = array('ru','ру','com','ком','org','орг', 'уа', 'ua');
+	
+	public $domain_zones = array('by', 'бел', 'ru','ру','ком','орг', 'уа', 'ua', 'uk', 'co', 'fr', 'com', 'net', 'edu', 'gov', 'org', 'mil', 'int', 'info', 'biz', 'info', 'name', 'pro');
 	
 	public $classes = array(
 			'nowrap'           => 'word-spacing:nowrap;',
@@ -2152,8 +2153,7 @@ class EMT_Tret_Space extends EMT_Tret
 {
 	public $title = "Расстановка и удаление пробелов";
 	
-	public $domain_zones = array('by', 'ru','ру','ком','орг', 'уа', 'ua', 'uk', 'co', 'fr', 
-	                             'com', 'net', 'edu', 'gov', 'org', 'mil', 'int', 'info', 'biz', 'info', 'name', 'pro');
+	public $domain_zones = array('by', 'бел', 'ru','ру','ком','орг', 'уа', 'ua', 'uk', 'co', 'fr', 'com', 'net', 'edu', 'gov', 'org', 'mil', 'int', 'info', 'biz', 'info', 'name', 'pro');
 	
 	public $classes = array(
 			'nowrap'           => 'word-spacing:nowrap;',
